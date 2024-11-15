@@ -1,0 +1,28 @@
+ #ListLink{
+    height:40px;
+    width:100%;
+    transition:all .2s;
+}
+
+#ListLink a{
+    text-decoration: none;
+    color:#6c757d;
+}
+
+ #ListLink:hover{
+    background-color: #6c757d;
+    cursor:pointer;
+}
+
+#ListLink:hover a{
+    color:#fff;
+}
+
+form #btn{
+    cursor:pointer;
+}
+
+.list-group-item.active{
+    background-color:#6c757d; 
+    border-color: #6c757d;     
+}

@@ -1,0 +1,29 @@
+#dropdowns{
+    position:absolute; 
+    right:30px; 
+    top:100px;
+    cursor:pointer;
+    transition:all .5s;
+}
+
+#groupList{
+    position: absolute; 
+    left: 15%;
+    top:100px;
+    cursor:pointer;
+}
+
+@media (max-width:576px){
+    #dropdowns{
+        position:absolute;
+        right:10px;
+        top:100px;
+        transition:all .5s;
+    }
+
+    #groupList{
+        position: absolute;
+        left:30px;
+        top:100px;
+    }
+}

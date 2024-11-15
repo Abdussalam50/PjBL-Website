@@ -1,0 +1,22 @@
+{
+    "name": "vendor/websiterevisi3",
+    "description": "",
+    "type": "project",
+    "authors": [
+        {
+            "name": "",
+            "email": "AbdussalamhadisT50@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^5.26",
+        "cboden/ratchet": "^0.4.4",
+        "pusher/pusher-php-server": "^7.2",
+        "pusher/pusher-push-notifications": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Namespace\\": "src/"
+        }
+    }
+}

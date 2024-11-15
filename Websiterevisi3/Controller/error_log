@@ -1,0 +1,43 @@
+[02-Oct-2024 09:05:28 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/notifHandler.php on line 22
+[02-Oct-2024 09:05:28 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendNotifForDiscuss.php on line 54
+[02-Oct-2024 09:05:33 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/notifHandler.php on line 22
+[02-Oct-2024 09:05:33 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendNotifForDiscuss.php on line 54
+[09-Nov-2024 06:46:59 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rj4jkzTa' for key 'PRIMARY' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendDataTable.php:122
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendDataTable.php(122): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendDataTable.php on line 122
+[11-Nov-2024 23:13:53 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Kelas' in 'where clause' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php:4
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php(4): mysqli_prepare()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php on line 4
+[11-Nov-2024 23:13:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Kelas' in 'where clause' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php:4
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php(4): mysqli_prepare()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php on line 4
+[11-Nov-2024 23:17:39 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Kelas' in 'where clause' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php:4
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php(4): mysqli_prepare()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php on line 4
+[11-Nov-2024 23:18:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Kelas' in 'where clause' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php:4
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php(4): mysqli_prepare()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/getNotificationMessage.php on line 4
+[11-Nov-2024 23:20:22 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'nlpteamm_abdus.table_kelompok_1' doesn't exist in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/setSessionStd.php:10
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/setSessionStd.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/setSessionStd.php on line 10
+[11-Nov-2024 23:27:07 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rj4jkzTa' for key 'PRIMARY' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendDataTable.php:122
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendDataTable.php(122): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendDataTable.php on line 122
+[12-Nov-2024 11:25:45 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/notifHandler.php on line 22
+[12-Nov-2024 11:25:45 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendNotifForDiscuss.php on line 54
+[12-Nov-2024 11:26:12 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/notifHandler.php on line 22
+[12-Nov-2024 11:26:12 Asia/Jakarta] PHP Warning:  Undefined array key "grp" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/sendNotifForDiscuss.php on line 54

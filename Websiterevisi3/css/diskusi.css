@@ -1,0 +1,56 @@
+body{
+    height:100vh;
+}
+
+#random-chat{
+    width:250px;
+    height:auto;
+}
+
+#chat-block{
+    overflow-y: scroll;
+    height:550px;
+    background:url(img/backgr-cht.jpg) no-repeat 100%;
+}
+
+#personal-chat{
+    width:250px;
+    height:auto;
+}
+
+.side-display{
+    display:none !important;
+}
+
+#class-chat{
+    cursor:pointer;
+    transition:all 0.5s;
+}
+
+#class-chat:hover{
+    box-shadow: 3px 4px 10px #000;
+    transform:translate(-3px,-4px);
+    transition:all 0.5s;
+    background-color: #8C8D90;
+}
+
+@media screen and (max-width:768px){
+    #random-chat{
+        width:200px;
+    }
+
+    #personal-chat{
+        width:200px;
+        overflow-wrap:break-word;
+    }
+    #chat-block{
+        overflow-y: scroll;
+        height:600px;
+    }
+    #slider-menu{
+        position:absolute;
+        top:50px;
+        left:0px;
+        transition:all 0.5s
+    }
+}

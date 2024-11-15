@@ -1,0 +1,66 @@
+table{
+    width:100%;
+    height:auto;
+    border-collapse: collapse;
+    border:1px solid #dddcdc;
+
+}
+
+th, tr, td{
+    border:1px solid #dddcdc;
+    padding:10px;
+    text-align:center;
+}
+
+td input{
+    width:100%;
+    border:none;
+   
+}
+
+
+
+#addRow{
+    border:2px solid #eaeaea;
+    margin-top:10px;
+    background-color:#fff;
+    transition:all 0.3s;
+    padding:7px;
+}
+
+#addRow:hover{
+    border:2px solid hsl(216, 89%, 55%);
+}
+
+#addRow:hover {
+    color:hsl(216, 89%, 55%);
+}
+
+#addRow:hover i{
+    color:hsl(216, 89%, 55%);
+}
+
+#container-list-grp{
+    margin:0px;
+    padding:0px;
+}
+#container-list-grp li{
+    list-style:none;
+    padding:8px;
+}
+
+#container-list-grp li:hover{
+    background-color:lightgrey;
+    cursor:pointer;
+}
+
+#container-list-grp li:hover a{
+   color:#fff;
+
+} 
+
+#container-list-grp li a{
+    text-decoration:none;
+    color:#000;
+    transition: all 0.1s;
+}

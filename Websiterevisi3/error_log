@@ -1,0 +1,247 @@
+[05-Aug-2024 10:42:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:37:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:40:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:52:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:52:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:52:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:52:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:52:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:52:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:54:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlp_teamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:54:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlp_teamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:54:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlp_teamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:55:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlp_teamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:55:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlp_teamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:56:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:56:40 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:57:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:57:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:57:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:57:46 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:58:42 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:59:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:59:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:59:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:59:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 13:59:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:12 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 14:00:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 20:55:33 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'nlpteamm_t-tas'@'localhost' to database 'nlpteamm_web_database' in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/Db_connection.php on line 8
+[05-Aug-2024 22:53:38 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[05-Aug-2024 22:53:41 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[09-Aug-2024 22:16:07 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[09-Aug-2024 22:16:17 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[09-Aug-2024 22:21:34 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[09-Aug-2024 22:21:36 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[10-Aug-2024 07:25:33 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[10-Aug-2024 07:25:35 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[10-Aug-2024 07:26:28 Asia/Jakarta] PHP Warning:  shell_exec() has been disabled for security reasons in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas/Websiterevisi3/Controller/SocketChat_start.php on line 2
+[01-Oct-2024 10:29:53 Asia/Jakarta] PHP Warning:  Undefined array key "Role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionSiswa.php on line 6
+[02-Oct-2024 08:47:23 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Register.php on line 9
+[02-Oct-2024 09:12:17 Asia/Jakarta] PHP Warning:  Undefined array key "grpName" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Perpustakaan(siswa).php on line 98
+[02-Oct-2024 09:18:46 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[02-Oct-2024 09:18:46 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Bantuan.php on line 51
+[02-Oct-2024 09:18:46 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Bantuan.php on line 55
+[02-Oct-2024 09:18:46 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Bantuan.php on line 56
+[02-Oct-2024 09:18:55 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[02-Oct-2024 09:18:55 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Bantuan.php on line 51
+[02-Oct-2024 09:18:55 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Bantuan.php on line 55
+[02-Oct-2024 09:18:55 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Bantuan.php on line 56
+[02-Oct-2024 09:19:23 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php on line 9
+[03-Oct-2024 09:16:01 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[03-Oct-2024 09:16:01 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/OverviewMenuGuru.php on line 31
+[03-Oct-2024 09:16:01 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/OverviewMenuGuru.php on line 32
+[03-Oct-2024 09:16:01 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/OverviewMenuGuru.php on line 35
+[03-Oct-2024 09:16:01 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/OverviewMenuGuru.php on line 36
+[03-Oct-2024 09:16:01 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/OverviewMenuGuru.php on line 70
+[29-Oct-2024 11:13:55 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php on line 9
+[29-Oct-2024 11:18:45 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[29-Oct-2024 11:18:45 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[29-Oct-2024 11:18:45 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[29-Oct-2024 11:18:45 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[29-Oct-2024 11:18:45 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[29-Oct-2024 11:18:54 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php on line 9
+[29-Oct-2024 11:18:54 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[29-Oct-2024 11:18:54 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[29-Oct-2024 11:18:54 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[29-Oct-2024 11:18:54 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[29-Oct-2024 11:18:54 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[29-Oct-2024 11:19:01 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php on line 9
+[29-Oct-2024 11:19:01 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[29-Oct-2024 11:19:01 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[29-Oct-2024 11:19:01 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[29-Oct-2024 11:19:01 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[29-Oct-2024 11:19:01 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[29-Oct-2024 11:19:06 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php on line 9
+[29-Oct-2024 11:19:06 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[29-Oct-2024 11:19:06 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[29-Oct-2024 11:19:06 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[29-Oct-2024 11:19:06 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[29-Oct-2024 11:19:06 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[29-Oct-2024 11:27:48 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[29-Oct-2024 11:27:48 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[29-Oct-2024 11:27:48 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[29-Oct-2024 11:27:48 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[29-Oct-2024 11:27:48 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 40
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 41
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 44
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 45
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 227
+[29-Oct-2024 12:13:19 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 247
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 35
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 36
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 39
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 40
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 123
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 128
+[30-Oct-2024 04:10:50 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 133
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 35
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 36
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 39
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 40
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 123
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 128
+[30-Oct-2024 08:27:47 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Penilaian.php on line 133
+[30-Oct-2024 08:31:20 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 08:31:20 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[30-Oct-2024 08:31:20 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[30-Oct-2024 08:31:20 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[30-Oct-2024 08:31:20 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[30-Oct-2024 08:31:20 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[30-Oct-2024 08:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 08:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[30-Oct-2024 08:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[30-Oct-2024 08:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[30-Oct-2024 08:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[30-Oct-2024 08:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[30-Oct-2024 08:44:22 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 08:44:22 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[30-Oct-2024 08:44:22 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[30-Oct-2024 08:44:22 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[30-Oct-2024 08:44:22 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[30-Oct-2024 08:44:22 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[30-Oct-2024 08:58:14 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 08:58:14 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[30-Oct-2024 08:58:14 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[30-Oct-2024 08:58:14 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[30-Oct-2024 08:58:14 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[30-Oct-2024 08:58:14 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[30-Oct-2024 09:10:02 Asia/Jakarta] PHP Warning:  Undefined array key "Role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionSiswa.php on line 6
+[30-Oct-2024 09:57:17 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[30-Oct-2024 09:57:17 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 36
+[30-Oct-2024 09:57:17 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 37
+[30-Oct-2024 09:57:17 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 136
+[30-Oct-2024 09:57:17 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 140
+[30-Oct-2024 09:57:17 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/dashboard-guru.php on line 145
+[04-Nov-2024 05:24:02 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[04-Nov-2024 05:24:02 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/ProfilAnda.php on line 68
+[04-Nov-2024 05:24:02 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/ProfilAnda.php on line 71
+[04-Nov-2024 05:24:02 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/ProfilAnda.php on line 122
+[04-Nov-2024 05:24:02 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/ProfilAnda.php on line 129
+[09-Nov-2024 06:48:00 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php on line 9
+[11-Nov-2024 22:58:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 22:58:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 22:58:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 22:59:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:05:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:05:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:06:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:08:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:08:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:09:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:09:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[11-Nov-2024 23:09:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php:8
+Stack trace:
+#0 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Login.php(2): include()
+#1 /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Login-siswa-guru.php(5): include('/home/nlpteamm/...')
+#2 {main}
+  thrown in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/Db_connection.php on line 8
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Controller/VerifySessionGuru.php on line 6
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 40
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "role" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 41
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 44
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "IdUser" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 45
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "Class" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 227
+[12-Nov-2024 11:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/nlpteamm/pyweb.nlp-team.my.id/t-tas.Teta/Websiterevisi3/Menu_proyek_Guru.php on line 247

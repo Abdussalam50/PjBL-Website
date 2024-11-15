@@ -1,0 +1,7 @@
+#class-group{
+    cursor:pointer;
+}
+
+#class-group:hover{
+    background-color:lightgrey
+}

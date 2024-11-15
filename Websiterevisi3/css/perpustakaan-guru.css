@@ -1,0 +1,13 @@
+#dProject p a{
+    color:#566573;
+    text-decoration:none;
+}
+
+#dProject:hover{
+    background-color:lightgrey;
+    
+}
+
+#dProject:hover p a{
+    color:#566573;
+}

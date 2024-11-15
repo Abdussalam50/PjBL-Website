@@ -1,0 +1,32 @@
+#btn-comments1,#btn-comments2{
+    height:30px;
+    width:70px;
+    border:none;
+    border-radius:5px;
+    margin-left:2px;
+    margin-right:2px;
+}
+
+#btn-comments1{
+    background-color: #F4D03F;
+    
+}
+
+#btn-comments2{
+    background-color: #EC7063;
+    
+}
+
+#btn-comments1,#btn-comments2 p{
+    color:#fff;
+}
+
+iframe{
+    height:398px;
+}
+@media screen and (max-width:768px){
+    iframe{
+        height:250px;
+    }
+}
+

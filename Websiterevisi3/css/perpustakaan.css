@@ -1,0 +1,33 @@
+#section-body{
+    height:700px;
+    background-color:#E9E9EA ;
+}
+
+
+#dProject{
+    cursor:pointer;
+    transition:all 0.1s;
+}
+
+#dProject p a{
+    text-decoration: none;
+    color:hsl(0, 5%, 14%);
+}
+
+#dProject:hover{
+    background-color: #7E8086 ;
+    
+}
+
+#dProject:hover p a{
+    color:#fff;
+}
+
+#list-document:hover{
+    background-color: #3B6CFF ;
+}
+@media screen and (max-width:768px){
+    #section-body{
+        height:700px;
+    }
+}
